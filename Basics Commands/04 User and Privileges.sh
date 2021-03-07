@@ -1,4 +1,13 @@
-                                                                                                                                                                                                                                             
+• Overview - 
+• Chmod - change the mod 
+• adduser - add the user 
+• /etc/passwd,/etc//shadow -- imp files 
+• su - switch user
+• sudo- allows you to elevate your privillages on a linux machine 
+• r w x -> read wite and execute permission(777)
+  
+  -------------------------------------------------------------------------------------------------------------------------------------------------
+  
 ┌──(root💀kali)-[~]
 └─# ls -la                                                              
 total 132
